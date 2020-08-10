@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="295269" started-at="2020-08-05T19:16:54Z" finished-at="2020-08-05T19:21:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="295269" started-at="2020-08-05T19:16:54Z" finished-at="2020-08-05T19:21:49Z">
+      <class name="practise.AppiumFramework.NoBroker">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.NoBroker@5ae63ade]" name="killAllNodes" is-config="true" duration-ms="3059" started-at="2020-08-05T19:16:54Z" finished-at="2020-08-05T19:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="noBrokerApp()[pri:0, instance:practise.AppiumFramework.NoBroker@5ae63ade]" name="noBrokerApp" duration-ms="292070" started-at="2020-08-05T19:16:57Z" finished-at="2020-08-05T19:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noBrokerApp -->
+      </class> <!-- practise.AppiumFramework.NoBroker -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
